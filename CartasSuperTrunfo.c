@@ -32,8 +32,8 @@ int main() {
   printf("Nome da Cidade:  \n");
   printf("População:  \n");
   printf("Área (km²):  \n");
-  printf("PIB (em milhões):  \n);
-  printf("Número de Pontos Turísticos:  \n")
+  printf("PIB (em milhões):  \n");
+  printf("Número de Pontos Turísticos:  \n");
 
 //Carta 02
   printf("==Cadastro de Carta 02==");
@@ -42,8 +42,8 @@ int main() {
   printf("Nome da Cidade:  \n");
   printf("População:  \n");
   printf("Área (km²):  \n");
-  printf("PIB (em milhões):  \n);
-  printf("Número de Pontos Turísticos:  \n")
+  printf("PIB (em milhões):  \n");
+  printf("Número de Pontos Turísticos:  \n");
 
   // Área para exibição dos dados da cidade
 //Carta 01
